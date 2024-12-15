@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi presentacion - Josshua</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+            font-size: 1.5rem;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 2rem auto;
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        p, ul {
+            font-size: 1.1rem;
+            margin: 0.5rem 0;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 2rem;
+        }
+        img {
+            display: block;
+            margin: 1rem auto;
+            max-width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+        }
+        strong {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Un poco sobre mí :)
+    </header>
+    <div class="container">
+         <!-- Imagen -->
+        <img src="img1.JPG" alt="Foto de Josshua Flavio Villagra Paccori">
+
+        <!-- Datos personales -->
+        <p><strong>Nombre:</strong> Josshua Flavio Villagra Paccori</p>
+        <p><strong>Edad:</strong> 17 años</p>
+        <p><strong>Carrera:</strong> Marketing</p>
+        <p><strong>Deporte que más me gusta:</strong> Natación 🏊‍♂️</p>
+
+        <h2>Lo que me gusta</h2>
+        <p>Lo que más me gusta es <strong>escuchar música</strong> como la de <strong>JVKE</strong>, ya que es muy desestresante.</p>
+        <p>En mis días libres voy a jugar al parque junto con mi hermano.</p>
+        <p><strong>Mi comida favorita:</strong> El ceviche 🥘</p>
+        
+        <p>También disfruto mucho jugar videojuegos, entre ellos:</p>
+        <ul>
+            <li>Fortnite</li>
+            <li>Free Fire</li>
+            <li>Plantas vs Zombies</li>
+        </ul>
+        
+        <p>La persona con la que más me hablo y que considero una mejor amiga es <strong>Nicol (Snorlax)</strong>.</p>
+        <img src="img2.JPG">
+        <p>Además, me gusta mucho <strong>Dragon Ball</strong> 💥.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/LI7NEs_Y5gg?si=8K-OjfslL0Sh5lyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p> Gracias <p>
+    </div>
+</body>
+</html>
